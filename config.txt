@@ -1,0 +1,9 @@
+arm_freq=850
+core_freq=375
+force_turbo=1
+disable_overscan=1
+gpu_mem=128
+start_file=start_x.elf
+fixup_file=fixup_x.dat
+hdmi_ignore_cec_init=1
+

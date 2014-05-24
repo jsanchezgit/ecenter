@@ -1,0 +1,5 @@
+proc            /proc           proc    defaults         0       0
+devpts          /dev/pts        devpts  rw,nosuid,noexec,relatime,gid=5,mode=620        0       0
+/dev/mmcblk0p1  /boot           vfat    defaults,noatime         0       0
+/dev/mmcblk0p2  /               ext4    defaults,noatime 0       0
+//192.168.1.1/Volume1 /media/tplink cifs uid=pi,credentials=/etc/credentials.txt

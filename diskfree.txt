@@ -1,0 +1,5 @@
+Filesystem             Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2         7.3G  860M  6.1G  13% /
+/dev/mmcblk0p1          69M  8.2M   61M  12% /boot
+//192.168.1.1/Volume1  147G   75G   73G  51% /media/tplink
+/dev/sda1               59G  192K   59G   1% /media/USB64
